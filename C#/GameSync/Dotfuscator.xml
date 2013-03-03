@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v1.1.dtd">
+<dotfuscator version="1.1">
+   <propertylist>
+      <property name="SourceDirectory" value="This Path Will Be Replaced By Visual Studio" />
+      <property name="SourceFile" value="This Filename Will Be Replaced By Visual Studio" />
+   </propertylist>
+   <trigger>
+      <filelist>
+         <file dir="${SourceDirectory}\" name="${SourceFile}" />
+      </filelist>
+   </trigger>
+   <output>
+      <file dir="${SourceDirectory}\Dotfuscator\" />
+   </output>
+</dotfuscator>

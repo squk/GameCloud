@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSync", "GameSync\GameSync.csproj", "{D77D5660-7907-4BC7-B8BD-4E3F7D9D00DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorReport", "ErrorReport\ErrorReport.csproj", "{F49E1F8B-E836-4C7C-A61B-521D10A387A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77D5660-7907-4BC7-B8BD-4E3F7D9D00DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77D5660-7907-4BC7-B8BD-4E3F7D9D00DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77D5660-7907-4BC7-B8BD-4E3F7D9D00DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77D5660-7907-4BC7-B8BD-4E3F7D9D00DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49E1F8B-E836-4C7C-A61B-521D10A387A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49E1F8B-E836-4C7C-A61B-521D10A387A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49E1F8B-E836-4C7C-A61B-521D10A387A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49E1F8B-E836-4C7C-A61B-521D10A387A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
